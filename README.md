@@ -6,7 +6,7 @@
 📈 My goal is to develop testing knowlage and technical skills.<br />
 🎮 In this portfolio I would like to show my non-commercial projects and what I have learned.
 ## Tools I know
-| TOOL              | 
+| TOOL              |    | TECH SKILLS       | 
 | ----------------- |
 | JIRA              | 
 | TESTLINK          | 
