@@ -14,6 +14,15 @@
 | GITHUB            |
 | ADOBE PHOTOSHOP   |
 | ADOBE ILLUSTRATOR |
+## Tech skills
+| TECH SKILLS       | 
+| ----------------- |
+| JIRA              | 
+| TESTLINK          | 
+| MANTIS            | 
+| GITHUB            |
+| ADOBE PHOTOSHOP   |
+| ADOBE ILLUSTRATOR |
     
 
 
