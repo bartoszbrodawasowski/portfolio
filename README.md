@@ -5,25 +5,7 @@
 👷🏽 Despite the fact that my jobs were not directly related to the IT industry, technology and games are an important part of my life.<br />
 📈 My goal is to develop testing knowlage and technical skills.<br />
 🎮 In this portfolio I would like to show my non-commercial projects and what I have learned.
-## Tools I know
-| TOOL              | 
-| ----------------- |
-| JIRA              | 
-| TESTLINK          | 
-| MANTIS            | 
-| GITHUB            |
-| ADOBE PHOTOSHOP   |
-| ADOBE ILLUSTRATOR |
-## Tech skills
-| TECH SKILLS       | 
-| ----------------- |
-| JIRA              | 
-| TESTLINK          | 
-| MANTIS            | 
-| GITHUB            |
-| ADOBE PHOTOSHOP   |
-| ADOBE ILLUSTRATOR |
-    
+## Tools&Skills
 | Tools I know       | Tech skills         | fajne |
 | ------------------ |:-------------------:| -----:|
 | JIRA               | wyrównana do prawej | $1600 |
