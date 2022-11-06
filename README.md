@@ -13,3 +13,6 @@
 | GITHUB             | SCRUM                        |    
 | ADOBE PHOTOSHOP    | CREATING TEST CASES          |   
 | ADOBE ILLUSTRATOR  | BUG REPORTING                |   
+## Courses
+* [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/)
+
