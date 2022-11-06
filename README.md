@@ -6,8 +6,14 @@
 📈 My goal is to develop testing knowlage and technical skills.<br />
 🎮 In this portfolio I would like to show my non-commercial projects and what I have learned.
 ## Tools I know
-| Tool          | 
-| ------------- |
-| Jira          | 
-| TestLink      | 
-| Mantis        | 
+| Tool              | 
+| ----------------- |
+| Jira              | 
+| TestLink          | 
+| Mantis            | 
+| Github            |
+| Adobe Photshop    |
+| Adobe Illustrator |
+    
+
+
