@@ -15,4 +15,4 @@
 | ADOBE ILLUSTRATOR  | BUG REPORTING                |   
 ## Courses
 * [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/)
-
+* [Game QA/Testing Short Course](https://www.udemy.com/course/game-qatesting-short-course/)
