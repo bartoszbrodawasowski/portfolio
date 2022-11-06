@@ -1,3 +1,4 @@
 ## Portfolio
 ## About me
-[Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
+👋 Welcome to my portfolio page! I am Bartosz and I am motivated to become a software tester.
+
