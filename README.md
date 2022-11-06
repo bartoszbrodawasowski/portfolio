@@ -16,3 +16,10 @@
 ## Courses
 * [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/)
 * [Industry Standard Game Design Tests: The Ultimate Collection](https://www.udemy.com/course/game-qatesting-short-course/)
+## Projects
+.....
+## Test case examples
+.....
+## Bug reporting
+.....
+## My bug reports
