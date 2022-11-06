@@ -6,11 +6,10 @@
 📈 My goal is to develop testing knowlage and technical skills.<br />
 🎮 In this portfolio I would like to show my non-commercial projects and what I have learned.
 ## Tools&Skills
-| Tools I know       | Tech skills         | fajne |
-| ------------------ |:-------------------:| -----:|
-| JIRA               | wyrównana do prawej | $1600 |
-| TESTLINK           | wycentrowana        |   $12 |
-| MANTIS             | są fajne            |    $1 |
-| GITHUB             | są fajne            |    $1 |
-| ADOBE PHOTOSHOP    | są fajne            |    $1 |
-| ADOBE ILLUSTRATOR  | są fajne            |    $1 |
+| TOOLS              | Tech skills                  | 
+| ------------------ |:----------------------------:| 
+| JIRA               | SQL                          | 
+| TESTLINK           | ISTQB                        |   
+| GITHUB             | SCRUM                        |    
+| ADOBE PHOTOSHOP    | CREATING TEST CASES          |   
+| ADOBE ILLUSTRATOR  | BUG REPORTING                |   
