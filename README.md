@@ -22,5 +22,5 @@
 xxx
 ## Bug reporting
 Reporting bugs in e-commerce.
-[http://skleptest.pl/_BugsReporting](https://docs.google.com/spreadsheets/d/1qDoDOav4SNes5LL_yOuc6F4ObNqvjdS1HwC7Qfk-rU8/edit?usp=sharin)
+[http://skleptest.pl/_BugsReporting](https://docs.google.com/spreadsheets/d/1qDoDOav4SNes5LL_yOuc6F4ObNqvjdS1HwC7Qfk-rU8/edit?usp=sharing)
 ## My bug reports
