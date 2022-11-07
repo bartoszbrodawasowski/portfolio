@@ -19,6 +19,7 @@
 ## Projects
 Headset for Freetrack. <br />
 Freetrack is a program that transfers the user's head movements to the computer using a camera and headset. It can be used, for example, to facilitate access for people with disabilities. In my case, I used it for aviation simulators.
+[Kanban board - Trello for Headset project](https://trello.com/b/Pe19zONi/headset-for-freetrack)
 
 ## Test case examples
 xxx
