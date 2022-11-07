@@ -17,7 +17,9 @@
 * [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/)
 * [Industry Standard Game Design Tests: The Ultimate Collection](https://www.udemy.com/course/game-qatesting-short-course/)
 ## Projects
-.....
+Headset for Freetrack. <br />
+Freetrack is a program that transfers the user's head movements to the computer using a camera and headset. It can be used, for example, to facilitate access for people with disabilities. In my case, I used it for aviation simulators.
+
 ## Test case examples
 xxx
 ## Bug reporting
