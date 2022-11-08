@@ -23,7 +23,8 @@ Freetrack is a program that transfers the user's head movements to the computer 
 
 ## Test case examples
 xxx
+
 ## Bug reporting
 Reporting bugs in e-commerce.
 [http://skleptest.pl/_BugsReporting](https://docs.google.com/spreadsheets/d/1qDoDOav4SNes5LL_yOuc6F4ObNqvjdS1HwC7Qfk-rU8/edit?usp=sharing)
-## My bug reports
+
