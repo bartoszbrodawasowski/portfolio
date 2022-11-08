@@ -16,6 +16,7 @@
 ## Courses
 * [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/)
 * [Industry Standard Game Design Tests: The Ultimate Collection](https://www.udemy.com/course/game-design-tests/?src=sac&kw=Industry+Standard+Game+Design+Tests%3A+The+Ultimate+Collection)
+* Fluke Networks CCTT - Certified Cabling Test Technician 
 ## Projects
 Headset for Freetrack. <br />
 Freetrack is a program that transfers the user's head movements to the computer using a camera and headset. It can be used, for example, to facilitate access for people with disabilities. In my case, I used it for aviation simulators.<br />
