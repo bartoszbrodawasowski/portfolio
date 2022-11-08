@@ -18,7 +18,7 @@
 * [Industry Standard Game Design Tests: The Ultimate Collection](https://www.udemy.com/course/game-design-tests/?src=sac&kw=Industry+Standard+Game+Design+Tests%3A+The+Ultimate+Collection)
 ## Projects
 Headset for Freetrack. <br />
-Freetrack is a program that transfers the user's head movements to the computer using a camera and headset. It can be used, for example, to facilitate access for people with disabilities. In my case, I used it for aviation simulators.
+Freetrack is a program that transfers the user's head movements to the computer using a camera and headset. It can be used, for example, to facilitate access for people with disabilities. In my case, I used it for aviation simulators.<br />
 [Kanban board - Trello for Headset project](https://trello.com/b/Pe19zONi/headset-for-freetrack)
 
 ## Test case examples
