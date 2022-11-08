@@ -13,7 +13,7 @@
 | GITHUB             | SCRUM                        |    
 | ADOBE PHOTOSHOP    | CREATING TEST CASES          |   
 | ADOBE ILLUSTRATOR  | BUG REPORTING                |   
-## Courses
+## Courses&Certificates
 * [Bootcamp testerski - testowanie oprogramowania 2022](https://www.udemy.com/course/bootcamp-testerski-tester-oprogramowania/)
 * [Industry Standard Game Design Tests: The Ultimate Collection](https://www.udemy.com/course/game-design-tests/?src=sac&kw=Industry+Standard+Game+Design+Tests%3A+The+Ultimate+Collection)
 * Fluke Networks CCTT - Certified Cabling Test Technician 
